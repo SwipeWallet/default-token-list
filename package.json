@@ -2,14 +2,14 @@
   "name": "@swipewallet/default-token-list",
   "version": "2.0.0",
   "description": "◦ The SwipeSwap default token list",
-  "main": "build/swipeswap-default.tokenlist.json",
+  "main": "build/swipeswap.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/swipeswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/swipeswap.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/swipeswap-default.tokenlist.json"
+    "build/swipeswap.tokenlist.json"
   ],
   "repository": {
     "type": "git",
