@@ -1,22 +1,23 @@
 {
-  "name": "@sushiswap/default-token-list",
+  "name": "@swipewallet/default-token-list",
   "version": "2.0.0",
-  "description": "◦ The SushiSwap default token list",
-  "main": "build/sushiswap-default.tokenlist.json",
+  "description": "◦ The SwipeSwap default token list",
+  "main": "build/swipeswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/sushiswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/swipeswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/sushiswap-default.tokenlist.json"
+    "build/swipeswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushiswap/default-token-list.git"
+    "url": "git+https://github.com/SwipeWallet/default-token-list.git"
   },
   "keywords": [
-    "sushiswap",
+    "swipe",
+    "swipeswap",
     "default",
     "token",
     "list"
@@ -24,9 +25,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sushiswap/default-token-list/issues"
+    "url": "https://github.com/SwipeWallet/default-token-list/issues"
   },
-  "homepage": "https://github.com/sushiswap/default-token-list#readme",
+  "homepage": "https://github.com/SwipeWallet/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

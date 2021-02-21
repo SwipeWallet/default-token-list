@@ -1,26 +1,42 @@
 [
   {
     "name": "Wrapped Ether",
-    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "address": "0x5baAf4D574cc118cb5EE0b7E7d83a84520fb81c8",
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 3,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "Dai Stablecoin",
-    "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 3,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "Uniswap",
-    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-    "symbol": "UNI",
+    "name": "Swipe Token",
+    "address": "0xd57022D5Cb065505093e2c4bBf7d683d2335aB6A",
+    "symbol": "SXP",
     "decimals": 18,
     "chainId": 3,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xb421716a0A1feeD58bAC7e0bBad54cb0D37c382E",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "USDC Coin",
+    "address": "0x005A31b9b305b8e63E3991cfb9943193432ec89B",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   }
 ]
