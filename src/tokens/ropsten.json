@@ -1,7 +1,7 @@
 [
   {
     "name": "Wrapped Ether",
-    "address": "0xc778417e063141139fce010982780140aa0cd5ab",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 3,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Dai Stablecoin",
-    "address": "0xa1a38b5e0dad12c4af73c6abfb8b3fd8ad621733",
+    "address": "0xA1a38B5E0daD12C4af73C6abfB8B3FD8AD621733",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 3,

@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+    "chainId": 1,
+    "name": "Swipe",
+    "symbol": "SXP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
+  },
+  {
     "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
     "chainId": 1,
     "name": "SushiSwap",
@@ -24,20 +32,20 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "0x Protocol Token",
-    "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-    "symbol": "ZRX",
+    "name": "1inch Protocol",
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "symbol": "1INCH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png"
   },
   {
-    "name": "Curve DAO Token",
-    "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-    "symbol": "CRV",
-    "decimals": 18,
+    "name": "Serum",
+    "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+    "symbol": "SRM",
+    "decimals": 6,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
   },
   {
     "name": "Uniswap",
@@ -45,7 +53,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
   },
   {
     "name": "Tether USD",
@@ -64,12 +72,12 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
-    "name": "Orchid",
-    "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
-    "symbol": "OXT",
+    "name": "FTX",
+    "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+    "symbol": "FTT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
   },
   {
     "name": "Maker",
@@ -176,20 +184,20 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
-    "name": "Balancer",
-    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-    "symbol": "BAL",
+    "name": "Basic Attention",
+    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "symbol": "BAT",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
   },
   {
     "chainId": 1,
-    "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
-    "name": "NuCypher",
-    "symbol": "NU",
+    "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+    "name": "OMG Network",
+    "symbol": "OMG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3318/thumb/photo1198982838879365035.jpg?1547037916"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png"
   },
   {
     "chainId": 1,
@@ -201,114 +209,10 @@
   },
   {
     "chainId": 1,
-    "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-    "name": "The Graph",
-    "symbol": "GRT",
+    "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "name": "Binance Stablecoin",
+    "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
-  },
-  {
-    "name": "Bancor Network Token",
-    "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-    "symbol": "BNT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
-  },
-  {
-    "name": "Synthetix Network Token",
-    "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-    "symbol": "SNX",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
-    "name": "Decentraland",
-    "symbol": "MANA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745"
-  },
-  {
-    "name": "Loom Network",
-    "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
-    "symbol": "LOOM",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
-    "name": "Civic",
-    "symbol": "CVC",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic.png?1547034556"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
-    "name": "district0x",
-    "symbol": "DNT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/849/thumb/district0x.png?1547223762"
-  },
-  {
-    "name": "Storj Token",
-    "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
-    "symbol": "STORJ",
-    "decimals": 8,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
-    "name": "Amp",
-    "symbol": "AMP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397"
-  },
-  {
-    "name": "Gnosis Token",
-    "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
-    "symbol": "GNO",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
-  },
-  {
-    "name": "Aragon Network Token",
-    "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-    "symbol": "ANT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
-    "name": "Keep Network",
-    "symbol": "KEEP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
-    "name": "tBTC",
-    "symbol": "TBTC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754"
-  },
-  {
-    "chainId": 1,
-    "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
-    "name": "Melon",
-    "symbol": "MLN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
   }
 ]
