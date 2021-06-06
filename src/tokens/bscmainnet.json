@@ -178,7 +178,7 @@
   {
     "address": "0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389",
     "chainId": 56,
-    "name": "ACryptoS(I)",
+    "name": "ACryptoS I",
     "symbol": "ACSI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x5b17b4d5e4009B5C43e3e3d63A5229F794cBA389/logo.png"
