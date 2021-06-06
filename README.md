@@ -3,7 +3,7 @@
 [![Tests](https://github.com/SwipeWallet/token-lists/workflows/Tests/badge.svg)](https://github.com/SwipeWallet/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@swipewallet/default-token-list)](https://unpkg.com/@swipewallet/default-token-list@latest/)
 
-This NPM module and GitHub repo contains the default token list used in the SushiSwap interface.
+This NPM module and GitHub repo contains the default token list used in the SwipeSwap interface.
 
 ## Adding a token
 
